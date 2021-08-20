@@ -1,0 +1,8 @@
+[main] 2021-08-19 16:31:22 INFO  com.bank.main.mainMethod  - enter customerid
+[main] 2021-08-19 16:31:47 INFO  com.bank.main.mainMethod  - Account [cust_name=Pechetti Vinay varshith, cust_accno=1, aadhar=478070322784, open_bal=11708.0, userId1=101]
+[main] 2021-08-19 16:31:47 INFO  com.bank.main.mainMethod  - Welcome to Michealsons bank
+[main] 2021-08-19 16:31:47 INFO  com.bank.main.mainMethod  - ====Main Menu====
+
+[main] 2021-08-19 16:31:47 INFO  com.bank.main.mainMethod  - 1) Register
+[main] 2021-08-19 16:31:47 INFO  com.bank.main.mainMethod  - 2) Login
+[main] 2021-08-19 16:31:47 INFO  com.bank.main.mainMethod  - 3) EXIT
